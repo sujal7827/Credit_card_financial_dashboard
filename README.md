@@ -12,13 +12,13 @@ Steps Include:
 
 
 Valuable Insights:
-• Overall revenue is 55M
-• Total interest is 7.84M
-• Total transaction amount is 45M
-• Male customers are contributing more in revenue 30M, female 25M
-• Blue & Silver credit card are contributing to 92% of overall
+1 Overall revenue is 55M
+2 Total interest is 7.84M
+3 Total transaction amount is 45M
+4 Male customers are contributing more in revenue 30M, female 25M
+5 Blue & Silver credit card are contributing to 92% of overall
 transactions
-• TX, NY & CA is contributing to 67%
-• Overall Activation rate is 57.5%
-• Overall Delinquent rate is 6.07%
-• week over week revenue ratio is fluctuating
+6 TX, NY & CA is contributing to 67%
+7 Overall Activation rate is 57.5%
+8 Overall Delinquent rate is 6.07%
+9 week over week revenue ratio is fluctuating
