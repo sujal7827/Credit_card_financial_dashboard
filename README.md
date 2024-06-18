@@ -8,8 +8,8 @@ To build an extensive weekly dashboard for credit card operations that delivers 
 Steps Include:
 1. Data Cleaning
 2. Data Processing
-3. Credit card transaction report Dasboard creation
-4. Credit card Customer report Dasboard creation
+3. Credit card transaction report Dashboard creation
+4. Credit card Customer report Dashboard creation
 5. Insight and Analysis
 
 
